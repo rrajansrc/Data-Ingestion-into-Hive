@@ -6,7 +6,7 @@ Introduction
 	
 Business Requirement
 --------------------
-	Perform data ingestion : HDFS --> MySQL --> Hive
+	Perform data ingestion using sqoop: HDFS --> MySQL --> Hive
 	
 It Covers
 	MySQL
