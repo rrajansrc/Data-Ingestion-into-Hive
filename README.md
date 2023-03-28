@@ -5,7 +5,8 @@ Introduction
 	Implemented steps to Ingest the data from RDBMS table into Hive warehouse
 	
 Business Requirement
-	Perform data ingestion pipeline: HDFS --> MySQL --> Hive
+--------------------
+	Perform data ingestion : HDFS --> MySQL --> Hive
 	
 It Covers
 	MySQL
@@ -14,6 +15,7 @@ It Covers
 	Hive
 	
 Steps to implement the project;
+-------------------------------
 
 	1.	Create Required directories in HDFS using hdfs-linux commands and Load the data into HDFS.
 	
